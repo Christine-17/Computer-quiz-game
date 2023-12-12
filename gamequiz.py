@@ -16,25 +16,25 @@ if answer.lower() == "uninterruptible power supply":
     print('Correct!')
 else:
     print('Incorrect!')
-    answer = input("What does IT stand for? ")
+answer = input("What does IT stand for? ")
 if answer.lower() == "information technology":
     score += 1
     print('Correct!')
 else:
     print('Incorrect!')
-    answer = input("What does ICT stand for? ")
+answer = input("What does ICT stand for? ")
 if answer.lower() == "information communication technology":
     score += 1
     print('Correct!')
 else:
     print('Incorrect!')
-    answer = input("What does STP stand for? ")
+answer = input("What does STP stand for? ")
 if answer.lower() == "shielded twisted pair":
     score += 1
     print('Correct!')
 else:
     print('Incorrect!')
-    answer = input("What does RAM stand for? ")
+answer = input("What does RAM stand for? ")
 if answer.lower() == "random access memory":
     score += 1
     print('Correct!')
